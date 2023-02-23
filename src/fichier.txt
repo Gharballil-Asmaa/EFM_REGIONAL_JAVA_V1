@@ -1,0 +1,20 @@
+Article{
+   code=1
+   price=20000.2$
+}
+Article{
+   code=10
+   price=1000.0$
+}
+ArticleEnSolde{
+   code=3
+   price=89.99$
+   priceArticleEnSolde=84.599599$
+   remise=5.99%
+}
+ArticleEnSolde{
+   code=9
+   price=100.0$
+   priceArticleEnSolde= 95.0% Is Invalid, 0%<=remise<=90%
+   remise=95.0%
+}
